@@ -19,4 +19,19 @@ author: ariqbasyar
 
 ## Solusi
 
-// Todo
+Diberikan website dengan tampilan berikut.
+
+![admin1](img/admin1-1.png)
+
+Selanjutnya cek cookie website tersebut dengan dev tools.
+
+![admin1](img/admin1-2.png)
+
+Terlihat bahwa terdapat value admin yang bernilai false dalam cookie.
+Selanjutnya edit nilainya menjadi true dan refresh.
+
+![admin1](img/admin1-3.png)
+
+## Flag
+
+`PRCTF{congratz_haha_ez_admin_1ce9307db61}`
