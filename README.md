@@ -1,6 +1,6 @@
 # CTF Pekan Ristek 2019
 
-Unofficial write up dari kontek CTF Pekan Ristek
+Unofficial write up dari kontes CTF Pekan Ristek 2019 yang dibuat oleh GPR.
 
 ## Link Kontes
 
